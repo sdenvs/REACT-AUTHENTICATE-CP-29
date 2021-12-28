@@ -1,1 +1,8 @@
 /* Write your CSS code here */
+.header {
+  display: flex;
+  justify-content: center;
+}
+.linkEl {
+  margin-right: 10px;
+}
